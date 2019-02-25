@@ -3,4 +3,8 @@
     <string name="play">Play</string>
     <string name="high_score">High score</string>
     <string name="exit">Exit</string>
+    <string name="health">Health </string>
+    <string name="score">Score </string>
+    <string name="gameover">GAME OVER!</string>
+    <string name="restart">Press to restart</string>
 </resources>
